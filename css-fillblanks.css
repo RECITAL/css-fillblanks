@@ -1,0 +1,6 @@
+span {
+    table-layout: fixed;
+    word-break: break-all;
+    display: inline;
+    border-bottom: 1px solid #cccccc;
+}
